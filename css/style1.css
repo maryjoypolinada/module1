@@ -1,0 +1,43 @@
+#outer{
+    width: 400px;
+    height: 400px;
+    text-align: center;
+    background-color: rgba(8, 164, 255, 0.568);
+    margin: auto;
+    margin-top: 100px;
+    padding-top: 50px;
+}
+
+#inner{
+    position: relative;
+    width: 75%;
+    height: 75%;
+    background-color: white;
+    margin: auto;
+}
+
+.input{
+    width: 80%;
+    height: 30px;
+    border: none;
+}
+
+h2{
+    padding-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#submit{
+    width: 85%;
+    height: 30px;
+    background-color: rgba(8, 164, 255, 0.568);
+    color: white;
+    font-weight: bold;
+    font-size: medium;
+    border: none;
+}
+
+#noAccount{
+    color: white;
+    padding-top: 30px;
+}
