@@ -27,7 +27,7 @@
 
 h2{
     padding-top: 50px;
-    font-family: Arial, Helvetica, sans-serif;
+    font: 35px Helvetica;
 }
 
 #submit{
@@ -43,4 +43,5 @@ h2{
 #noAccount{
     color: white;
     padding-top: 30px;
+    font: 15px Helvetica;
 }
