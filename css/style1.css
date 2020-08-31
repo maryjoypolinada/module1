@@ -2,18 +2,25 @@
     width: 400px;
     height: 410px;
     text-align: center;
-    background-color: rgba(8, 164, 255, 0.568);
+    background-color: red;
     margin: auto;
     margin-top: 100px;
+ change-width
     padding-top: 55px;
+
+    padding-top: 50px;
+    box-shadow: 0 15px 40px rgba(0,0,0,.4);
+    border-radius: 30px;
+
 }
 
 #inner{
     position: relative;
     width: 75%;
     height: 75%;
-    background-color: white;
+    background-color: lightgreen;
     margin: auto;
+    border-radius: 30px;
 }
 
 .input{
@@ -24,13 +31,13 @@
 
 h2{
     padding-top: 50px;
-    font-family: Arial, Helvetica, sans-serif;
+    font: 35px Helvetica;
 }
 
 #submit{
     width: 85%;
     height: 30px;
-    background-color: rgba(8, 164, 255, 0.568);
+    background-color: darkblue;
     color: white;
     font-weight: bold;
     font-size: medium;
@@ -40,4 +47,5 @@ h2{
 #noAccount{
     color: white;
     padding-top: 30px;
+    font: 15px Helvetica;
 }
